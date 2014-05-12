@@ -117,37 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="bt_submit.text" xml:space="preserve">
-    <value>Submit</value>
-  </data>
   <data name="label1.text" xml:space="preserve">
-    <value>Please select your language</value>
+    <value>اختر لغتك</value>
   </data>
-  <data name="label2.text" xml:space="preserve">
-    <value>My name is</value>
+  <data name="label11.text" xml:space="preserve">
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج. آمل أن تكسب</value>
   </data>
-  <data name="label3.text" xml:space="preserve">
-    <value>I am</value>
+  <data name="label13.text" xml:space="preserve">
+    <value>كما راتبا في وظيفتك الأولى!</value>
   </data>
-  <data name="label4.text" xml:space="preserve">
-    <value>I plan to graduate on:</value>
-  </data>
-  <data name="label5.text" xml:space="preserve">
-    <value>When I gradute, I hope to earn:</value>
+  <data name="label14.text" xml:space="preserve">
+    <value>يرجى زيارة لي على</value>
   </data>
   <data name="label6.text" xml:space="preserve">
-    <value>Please enter a number</value>
+    <value>مرحبا</value>
+  </data>
+  <data name="label9.text" xml:space="preserve">
+    <value>آمل أن يكون لديك يوم عظيم عند التخرج على on</value>
   </data>
   <data name="lb_header1.text" xml:space="preserve">
-    <value>Welcome to 6K:183</value>
+    <value>6K: 183 مرحبا بكم في</value>
   </data>
   <data name="lb_header2.text" xml:space="preserve">
-    <value>Software design and development</value>
-  </data>
-  <data name="rb1.text" xml:space="preserve">
-    <value>Male</value>
-  </data>
-  <data name="rb2.text" xml:space="preserve">
-    <value>Female</value>
+    <value>تصميم البرمجيات والتطوير</value>
   </data>
 </root>

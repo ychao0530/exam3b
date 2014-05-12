@@ -117,37 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="bt_submit.text" xml:space="preserve">
-    <value>Submit</value>
-  </data>
-  <data name="label1.text" xml:space="preserve">
-    <value>Please select your language</value>
-  </data>
-  <data name="label2.text" xml:space="preserve">
-    <value>My name is</value>
-  </data>
-  <data name="label3.text" xml:space="preserve">
-    <value>I am</value>
-  </data>
-  <data name="label4.text" xml:space="preserve">
-    <value>I plan to graduate on:</value>
-  </data>
-  <data name="label5.text" xml:space="preserve">
-    <value>When I gradute, I hope to earn:</value>
-  </data>
-  <data name="label6.text" xml:space="preserve">
-    <value>Please enter a number</value>
+  <data name="Label1.text" xml:space="preserve">
+    <value>请选择你的语言</value>
   </data>
   <data name="lb_header1.text" xml:space="preserve">
-    <value>Welcome to 6K:183</value>
+    <value>欢迎来到6K：183</value>
   </data>
   <data name="lb_header2.text" xml:space="preserve">
-    <value>Software design and development</value>
+    <value>软件设计与开发</value>
   </data>
-  <data name="rb1.text" xml:space="preserve">
-    <value>Male</value>
+  <data name="label11.text" xml:space="preserve">
+    <value>我祝愿你在你的职业生涯，毕业后。我希望你赚</value>
   </data>
-  <data name="rb2.text" xml:space="preserve">
-    <value>Female</value>
+  <data name="label13.text" xml:space="preserve">
+    <value>在你的第一份工作的薪水！</value>
+  </data>
+  <data name="label14.text" xml:space="preserve">
+    <value>请访问我的</value>
+  </data>
+  <data name="label6.text" xml:space="preserve">
+    <value>你好</value>
+  </data>
+  <data name="label9.text" xml:space="preserve">
+    <value>我希望你有一个伟大的日子，当你毕业的</value>
   </data>
 </root>
